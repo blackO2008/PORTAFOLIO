@@ -1,2 +1,4 @@
 # PORTAFOLIO
-No Publicare mi codigo
+Bienvenidos a mi repositorio personal. 
+
+Saludos Ingeniero Antonio Garcia
